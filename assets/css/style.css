@@ -611,11 +611,11 @@ section {
   border-radius: 50%;
   transition: 0.5s;
   border: 1px solid #149ddd;
-  
-  .services{
-  background-color: #c4edf9;
+ 
 }
   
+.services{
+  background-color: #c4edf9;
 }
 .services .icon i {
   color: #fff;
